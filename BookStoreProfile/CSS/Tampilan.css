@@ -1,0 +1,35 @@
+.row p {
+    text-align: justify;
+}
+
+.parallax-container {
+    height: 20% !important;
+}
+
+.parallax img {
+    opacity: 0.8 !important;
+    filter: grayscale(0.5);
+    opacity: 0.7 !important;
+}
+
+.partner img {
+    max-width: 150px;
+}
+
+.Books_trending {
+    padding-bottom: 30px;
+}
+
+.Books_list .row img {
+
+    padding-top: 10px;
+}
+
+section,
+.footer_1 {
+    padding: 20px;
+}
+
+.warna {
+    font-weight: bolder;
+}
